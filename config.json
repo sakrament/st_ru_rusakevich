@@ -1,0 +1,8 @@
+{
+	"dataset": "st_ru",
+	"speaker": "rusakevich",
+	"lang": "ru",
+	"lowerF0": 90,
+	"upperF0": 390,
+	"sampFreq": 48000
+}
